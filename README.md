@@ -1,4 +1,4 @@
-# information-technology
+# information-technology:
 Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create,
 process, store, secure and exchange all forms of electronic data.
 Typically, IT is used in the context of enterprise operations as opposed to personal or entertainment technologies. 
